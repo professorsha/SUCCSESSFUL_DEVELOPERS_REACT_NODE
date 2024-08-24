@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/professorsha/SUCCSESSFUL_DEVELOPERS_REACT_NODE/static/css/main.7acaea2f.css",
+    "main.js": "/professorsha/SUCCSESSFUL_DEVELOPERS_REACT_NODE/static/js/main.07d3183d.js",
+    "index.html": "/professorsha/SUCCSESSFUL_DEVELOPERS_REACT_NODE/index.html",
+    "main.7acaea2f.css.map": "/professorsha/SUCCSESSFUL_DEVELOPERS_REACT_NODE/static/css/main.7acaea2f.css.map",
+    "main.07d3183d.js.map": "/professorsha/SUCCSESSFUL_DEVELOPERS_REACT_NODE/static/js/main.07d3183d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7acaea2f.css",
+    "static/js/main.07d3183d.js"
+  ]
+}
